@@ -7,3 +7,4 @@ The plan is work on this Study in August, September and October 2022.
 Track my progress here:
 
 Aug 30 - Started Day 6
+Sep 7 - Started Day 8
